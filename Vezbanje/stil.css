@@ -1,0 +1,11 @@
+h1 { color: darkred;}
+h2 { color: red;}
+p { color: purple; font-size: 20px; }
+img { width: 400px; height: 300px;border: dashed 2px }
+a { color: orange; }
+body { background-color:#7c6f38 ; font-family: Arial, Helvetica, sans-serif;}
+#naslov { text-align: center;}
+.paragraf { text-align: right;font-size: 24px; }
+#treci_naslov { text-align: center; color: green; font-family: "Comic Sans MS";}
+a:visited { color: green;}
+a:hover { background-color: yellow;}
